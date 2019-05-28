@@ -7,4 +7,5 @@
 5. Rotate
 6. High cost of shifting element (how to avoid) 
 7. Searching (1 pointer or 2 pointers. From start to end, reverse or from both ends) 
+8. Subarray
 
