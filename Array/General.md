@@ -11,5 +11,6 @@
 9. Matrix
 10. Sum
 11. Does memory have enough space to load the whole array? 
+12. Partition (GCD, LCM)
 
 
