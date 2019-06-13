@@ -7,3 +7,4 @@
 5. When need to remove nodes from list, do we remove the head of list? How to not lose the reference of a list? Should we use a dummy head? 
 6. Reversing is equivalent to swapping the two end nodes. 
 7. Linked lists are flexible to merge. 
+8. Deep copy -> dummy head
