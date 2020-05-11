@@ -6,6 +6,9 @@
 4. For iteration, where to start, where to stop. When to update variables, when not to update variables. (Try to treat it as a FSM. Every state is a snapshot. What are the values the program should produce at each state?)
 5. For data structure processing, divide the data structure into a processed part and unprocessed part. Processed part has information what we have already known so far. It's like looking backward and forward. 
 6. Top-down recursion vs Bottom-up recursion. 
+7. What is the meaning carried by your pointer？
+8. Optmizing space. Can we reduce the dimension? 
+9. Avoid messy basic operation. Try to make basic operation more structural. 
 
 ## Steps:
 1. Identify the problem. Transform the original question. Divide into sub question
