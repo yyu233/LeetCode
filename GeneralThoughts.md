@@ -9,7 +9,8 @@
 7. What is the meaning carried by your pointer？
 8. Optmizing space. Can we reduce the dimension? 
 9. Avoid messy basic operation. Try to make basic operation more structural. 
-10. Opmitize time. Can we avoid some combinations, jump over some caculation or use a better data structure? 
+10. Opmitize time. Can we avoid some combinations, jump over some caculation or use a better data structure? ‘
+11. Good observance coming from logic!!!
 
 ## Steps:
 1. Identify the problem. Transform the original question. Divide into sub question
